@@ -6,3 +6,4 @@ dist-ssr
 .vite
 知识库
 *.log
+*.tsbuildinfo
